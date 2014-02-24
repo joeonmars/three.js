@@ -3,7 +3,7 @@
 	"version": "0.0.66",
 	"homepage": "http://threejs.org/",
 	"description": "JavaScript 3D library",
-	"main": "build/three.js",
+	"main": "",
 	"keywords": [
 		"three",
 		"threejs",
