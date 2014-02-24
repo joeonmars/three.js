@@ -13,16 +13,5 @@
 	],
 	"license": "MIT",
 	"ignore": [
-		/*
-		"**/.*",
-		"*.md",
-		"bower.json",
-		"docs",
-		"editor",
-		"examples",
-		"src",
-		"test",
-		"utils",
-		"LICENSE"*/
 	]
 }
