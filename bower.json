@@ -13,6 +13,7 @@
 	],
 	"license": "MIT",
 	"ignore": [
+		/*
 		"**/.*",
 		"*.md",
 		"bower.json",
@@ -22,6 +23,6 @@
 		"src",
 		"test",
 		"utils",
-		"LICENSE"
+		"LICENSE"*/
 	]
 }
